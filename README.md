@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Enthusiast
 -----------------
 
-* 🌍  I'm based in Bulgaria, Plovdiv
+* 🌍  I'm based in Plovdiv, Bulgaria
 * 🧠  I'm learning Backend Web Development
 * ✉️  You can contact me at [todor.milushev23@gmail.com](mailto:todor.milushev23@gmail.com)
 
