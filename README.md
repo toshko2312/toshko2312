@@ -1,11 +1,11 @@
 Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-Python Enthusiast
+Web Developer
 -----------------
 
 * 🌍  I'm based in Plovdiv, Bulgaria
-* 🧠  I'm learning Backend Web Development
+* 🧠  I work mostly using Angular and Nestjs
 * ✉️  You can contact me at [todor.milushev23@gmail.com](mailto:todor.milushev23@gmail.com)
 
 ### Skills
